@@ -1,0 +1,5 @@
+streamlit
+kagglehub
+pandas
+sentence-transformers
+python-dotenv
